@@ -1,0 +1,19 @@
+Homework Problem :  Hacker Level ;)
+
+Write a function which Rancho used to
+
+change Chatur's speech in 3 Idiots.
+
+The function should take 3 arguments
+
+a = Whole speech 
+b = Old String
+c = New String
+
+Hint:  Checkout str.replace() from Python Docs
+
+def troll (a,b,c):
+	# do magic
+	return modified_string
+
+http://10.6.15.186:8000/
